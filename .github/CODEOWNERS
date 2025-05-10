@@ -1,0 +1,17 @@
+# Diese Datei definiert, wer für welche Teile des Codes verantwortlich ist
+# und automatisch als Reviewer für Pull Requests angefordert wird.
+# Weitere Informationen: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Standardmäßig ist der Repository-Eigentümer für alles verantwortlich
+* @Sierra-Bravo-ger
+
+# Spezifische Verzeichnisse
+/lib/core/ @Sierra-Bravo-ger
+/lib/data/ @Sierra-Bravo-ger
+/lib/presentation/ @Sierra-Bravo-ger
+/assets/ @Sierra-Bravo-ger
+
+# Plattformspezifische Dateien
+/android/ @Sierra-Bravo-ger
+/ios/ @Sierra-Bravo-ger
+/windows/ @Sierra-Bravo-ger

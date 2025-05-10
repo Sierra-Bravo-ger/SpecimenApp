@@ -1,0 +1,2023 @@
+{
+"profile": [
+	{
+		"id" : "P4825",
+		"name" : "Arginin-Test",
+		"tests" : "{T4960|T4943|T4964|T5993|T4959|T5994|T4944|T5996|T5995|T5997|T5998|T5999}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Arginin-Test",
+		"sortiernummer" : 350
+	},
+	{
+		"id" : "P5207",
+		"name" : "HVS,VMS",
+		"tests" : "{T9600|T9602|T3509}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "HVS,VMS",
+		"sortiernummer" : 999
+	},
+	{
+		"id" : "P4837",
+		"name" : "Cardiolipin-AK",
+		"tests" : "{T6175|T6176}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Cardiolipin-AK",
+		"sortiernummer" : 6132
+	},
+	{
+		"id" : "P4879",
+		"name" : "Clonidintest",
+		"tests" : "{T7093|T5993|T5995|T5997|T5998|T5999|T7092|T4942|T4943|T4944|T4959|T4960}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Clonidintest",
+		"sortiernummer" : 6141
+	},
+	{
+		"id" : "P4823",
+		"name" : "Cystin",
+		"tests" : "{T1386|T3242}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Cystin",
+		"sortiernummer" : 6170
+	},
+	{
+		"id" : "P4786",
+		"name" : "D-Aminoläv. Spontanu",
+		"tests" : "{T5102|T3509}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "D-Aminoläv. Spontanu",
+		"sortiernummer" : 6190
+	},
+	{
+		"id" : "P4891",
+		"name" : "Desmosomen-AK",
+		"tests" : "{T9128|T9114|T9115}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Desmosomen-AK",
+		"sortiernummer" : 6195
+	},
+	{
+		"id" : "P378",
+		"name" : "Dexamethasontest",
+		"tests" : "{T2574|T2568}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Dexamethasontest",
+		"sortiernummer" : 6200
+	},
+	{
+		"id" : "P355",
+		"name" : "Druesen\/Lymphknoten",
+		"tests" : "{T0290|T0504|T9552|T0066|T0067|T0503|T0291|T0226|T0224}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Druesen\/Lymphknoten",
+		"sortiernummer" : 6300
+	},
+	{
+		"id" : "P386",
+		"name" : "EBV-Blot",
+		"tests" : "{T4573|T4572|T9260|T4574|T9261|T4575|T4576|T4579|T4580|T4582|T5301|T5302}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "EBV-Blot",
+		"sortiernummer" : 6340
+	},
+	{
+		"id" : "P4791",
+		"name" : "Eisenresorptionstest",
+		"tests" : "{T5134|T5135|T5136}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Eisenresorptionstest",
+		"sortiernummer" : 6365
+	},
+	{
+		"id" : "P4789",
+		"name" : "Eiweißdifferenzier.",
+		"tests" : "{T0022|T0026|T0027|T0028|T0029|T0025|T0024|T1340|T3820|T3821|T2118|T2201|T0108|T3229|T3230|T5067|T3509}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Eiweißdifferenzier.",
+		"sortiernummer" : 6370
+	},
+	{
+		"id" : "P4795",
+		"name" : "Eiweißdifferenz. SU",
+		"tests" : "{T3508|T0113|T5106|T3238|T5109}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Eiweißdifferenz. SU",
+		"sortiernummer" : 6380
+	},
+	{
+		"id" : "P350",
+		"name" : "ENA",
+		"tests" : "{T6158|T6163|T6162|T6161|T0011|T6164|T6165|T6159}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "ENA",
+		"sortiernummer" : 6400
+	},
+	{
+		"id" : "P354",
+		"name" : "Endo-Myokarditis",
+		"tests" : "{T0226|T9133|T0224}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Endo-Myokarditis",
+		"sortiernummer" : 6600
+	},
+	{
+		"id" : "P4892",
+		"name" : "Epiderm. Basalmem.AK",
+		"tests" : "{T9129|T9116|T9117}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Epiderm. Basalmem.AK",
+		"sortiernummer" : 6605
+	},
+	{
+		"id" : "P4831",
+		"name" : "ETG-Differenzierung",
+		"tests" : "{T3509|T2177|T5957|T5956|T4920|T6311}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "ETG-Differenzierung",
+		"sortiernummer" : 6610
+	},
+	{
+		"id" : "P357",
+		"name" : "Exantheme",
+		"tests" : "{T3776|T0771|T0770|T7057|T7056|T0604|T0433|T0369|T0362|T0295|T0360|T0248}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Exantheme",
+		"sortiernummer" : 6660
+	},
+	{
+		"id" : "P5206",
+		"name" : "5-HIES",
+		"tests" : "{T9604|T3509}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "5-HIES",
+		"sortiernummer" : 999
+	},
+	{
+		"id" : "P4759",
+		"name" : "Amiodaron",
+		"tests" : "{T4861|T0642|T4862}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Amiodaron",
+		"sortiernummer" : 200
+	},
+	{
+		"id" : "P4760",
+		"name" : "Amitriptylin",
+		"tests" : "{T4866|T4865|T0781}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Amitriptylin",
+		"sortiernummer" : 300
+	},
+	{
+		"id" : "P4841",
+		"name" : "ANCA (p,c) (Granul)",
+		"tests" : "{T9528|T9527}",
+		"aktiv" : null,
+		"kategorie" : "Immunologie",
+		"hinweis" : null,
+		"beschreibung" : "ANCA (p,c) (Granul)",
+		"sortiernummer" : 320
+	},
+	{
+		"id" : "P4771",
+		"name" : "APC-R",
+		"tests" : "{T0305|T4906|T4907}",
+		"aktiv" : null,
+		"kategorie" : "Gerinnung",
+		"hinweis" : null,
+		"beschreibung" : "APC-R",
+		"sortiernummer" : 340
+	},
+	{
+		"id" : "P4888",
+		"name" : "Aquaporin-AK",
+		"tests" : "{T9120|T9119}",
+		"aktiv" : null,
+		"kategorie" : "Immunologie",
+		"hinweis" : null,
+		"beschreibung" : "Aquaporin-AK",
+		"sortiernummer" : 345
+	},
+	{
+		"id" : "P353",
+		"name" : "Atemwegsinfekt",
+		"tests" : "{T9133|T0471|T0708}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Atemwegsinfekt",
+		"sortiernummer" : 400
+	},
+	{
+		"id" : "P4838",
+		"name" : "B2-Glykoprotein-AK",
+		"tests" : "{T6177|T6178}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "β2-Glykoprotein-AK",
+		"sortiernummer" : 410
+	},
+	{
+		"id" : "P4875",
+		"name" : "Betrag",
+		"tests" : "{T6311|T7050}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Betrag",
+		"sortiernummer" : 700
+	},
+	{
+		"id" : "P4887",
+		"name" : "Blasenbild. Erkrank.",
+		"tests" : "{T9128|T9129|T9114|T9115|T9118|T9117|T9116}",
+		"aktiv" : null,
+		"kategorie" : "Immunologie",
+		"hinweis" : null,
+		"beschreibung" : "Blasenbild. Erkrank.",
+		"sortiernummer" : 800
+	},
+	{
+		"id" : "P240",
+		"name" : "Blockuntersuchung",
+		"tests" : "{T0042|T0980|T7111|T0044|T0045|T0041}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Blockuntersuchung",
+		"sortiernummer" : 2000
+	},
+	{
+		"id" : "P250",
+		"name" : "Blutgase (Astrup)",
+		"tests" : "{T0096|T0094|T0095|T0092|T0091|T0093}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Blutgase (Astrup)",
+		"sortiernummer" : 4000
+	},
+	{
+		"id" : "P4826",
+		"name" : "Blutgase (erweitert)",
+		"tests" : "{T6018|T6017|T6016|T6019|T6020|T6021|T6023|T6024}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Blutgase (erweitert)",
+		"sortiernummer" : 4010
+	},
+	{
+		"id" : "P5008",
+		"name" : "Borr.-Blot Liq.(Mik)",
+		"tests" : "{T9363|T9364|T9365|T9366|T9367|T9368|T9369|T9370|T9371|T9372|T9373|T9374|T9375|T9376|T9377|T9378|T9379|T9380}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Borr.-Blot Liq.(Mik)",
+		"sortiernummer" : 6082
+	},
+	{
+		"id" : "P4846",
+		"name" : "Borrelien im Liquor",
+		"tests" : "{T7087|T0398|T0427|T7088|T0213|T4648|T0397|T0009}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Borrelien im Liquor",
+		"sortiernummer" : 6090
+	},
+	{
+		"id" : "P4778",
+		"name" : "Brucellen",
+		"tests" : "{T5893}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Brucellen",
+		"sortiernummer" : 6120
+	},
+	{
+		"id" : "P4893",
+		"name" : "Bupropion",
+		"tests" : "{T9143|T9144}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Bupropion",
+		"sortiernummer" : 6122
+	},
+	{
+		"id" : "P4780",
+		"name" : "Ca\/Crea Quotient",
+		"tests" : "{T3505|T3509|T2147|T2177}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Ca\/Crea Quotient",
+		"sortiernummer" : 6125
+	},
+	{
+		"id" : "P4829",
+		"name" : "Campylobacter-Blot",
+		"tests" : "{T6077|T6078|T9226|T9232|T9231|T9230|T9229|T9233|T9222|T9223|T9224|T9225|T9228|T9227}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Campylobacter-Blot",
+		"sortiernummer" : 6130
+	},
+	{
+		"id" : "P5003",
+		"name" : "Chylomikronen",
+		"tests" : "{T0034|T4568}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Chylomikronen",
+		"sortiernummer" : 999
+	},
+	{
+		"id" : "P4761",
+		"name" : "Clomipramin",
+		"tests" : "{T2058|T4869|T4870}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Clomipramin",
+		"sortiernummer" : 6140
+	},
+	{
+		"id" : "P4819",
+		"name" : "CMV Westernblot",
+		"tests" : "{T5930|T9206|T5929|T9197|T9198|T9199|T9200|T9201|T9202|T9203|T9204|T9205|T9208|T9207}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "CMV Westernblot",
+		"sortiernummer" : 6145
+	},
+	{
+		"id" : "P4802",
+		"name" : "Crea-Clearance",
+		"tests" : "{T3240|T3238|T3242|T3239|T0044|T3241|T3245}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Crea-Clearance",
+		"sortiernummer" : 6150
+	},
+	{
+		"id" : "P4822",
+		"name" : "Cyclospo.-Monito.",
+		"tests" : "{T5974|T5975}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Cyclospo.-Monito.",
+		"sortiernummer" : 6160
+	},
+	{
+		"id" : "P4762",
+		"name" : "Doxepin",
+		"tests" : "{T4864|T4863|T1236}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Doxepin",
+		"sortiernummer" : 6220
+	},
+	{
+		"id" : "P4820",
+		"name" : "Drogenscr chrom(Urin",
+		"tests" : "{T5933|T6311|T5934|T5936|T5937|T3509|T5938|T5939}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Drogenscr chrom(Urin",
+		"sortiernummer" : 6250
+	},
+	{
+		"id" : "P5121",
+		"name" : "EBV",
+		"tests" : "{T9552|T0291|T0290}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "EBV",
+		"sortiernummer" : 6310
+	},
+	{
+		"id" : "P4821",
+		"name" : "Eisenstoffwechsel",
+		"tests" : "{T5130|T0268|T0047|T0141|T0043}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Eisenstoffwechsel",
+		"sortiernummer" : 6368
+	},
+	{
+		"id" : "P356",
+		"name" : "Enteritis",
+		"tests" : "{T7097|T1801|T1800|T6077|T6078}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Enteritis",
+		"sortiernummer" : 6600
+	},
+	{
+		"id" : "P5113",
+		"name" : "Faktor VIII",
+		"tests" : "{T9544|T9541|T9542|T9543}",
+		"aktiv" : null,
+		"kategorie" : "Gerinnung",
+		"hinweis" : null,
+		"beschreibung" : "Faktor VIII",
+		"sortiernummer" : 6800
+	},
+	{
+		"id" : "P5105",
+		"name" : "FIB4-Score",
+		"tests" : "{T0085|T9449|T0084|T0076}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "FIB4-Score",
+		"sortiernummer" : 6665
+	},
+	{
+		"id" : "P4855",
+		"name" : "Fluoxetin",
+		"tests" : "{T6240|T6241|T6242}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Fluoxetin",
+		"sortiernummer" : 6670
+	},
+	{
+		"id" : "P4798",
+		"name" : "Fr. Leichtketten Ser",
+		"tests" : "{T9469|T9470}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Fr. Leichtketten Ser",
+		"sortiernummer" : 6750
+	},
+	{
+		"id" : "P4836",
+		"name" : "Fragmentozyten",
+		"tests" : "{T0266|T0670}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Fragmentozyten",
+		"sortiernummer" : 6855
+	},
+	{
+		"id" : "P4809",
+		"name" : "Frakt. Na-Ausschei.",
+		"tests" : "{T4609|T2222|T0044|T3509|T0980}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Frakt. Na-Ausschei.",
+		"sortiernummer" : 6860
+	},
+	{
+		"id" : "P5208",
+		"name" : "Katecholamine LC-MS",
+		"tests" : "{T9588|T9590|T9592|T3509}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Katecholamine LC-MS",
+		"sortiernummer" : 999
+	},
+	{
+		"id" : "P5209",
+		"name" : "Metanephrine",
+		"tests" : "{T9594|T9596|T9598|T3509}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Metanephrine",
+		"sortiernummer" : 999
+	},
+	{
+		"id" : "P391",
+		"name" : "Gangliosid-Blot",
+		"tests" : "{T4659|T4660|T4661|T4662|T4663|T4664|T4665|T4666|T4679|T4668|T4669|T4670|T4671|T4672|T4673|T4674|T4675|T4676|T4677|T4678|T4658|T4667|T4656|T4657}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Gangliosid-Blot",
+		"sortiernummer" : 7000
+	},
+	{
+		"id" : "P358",
+		"name" : "GBS",
+		"tests" : "{T6077|T0369|T0362|T0295|T0291|T0290|T7097|T0248|T0226|T0224|T0066|T0067|T7088|T0427|T3776|T0433|T6078|T7087|T9133|T9552}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "GBS",
+		"sortiernummer" : 7200
+	},
+	{
+		"id" : "P4787",
+		"name" : "Ges. Porph. Spontanu",
+		"tests" : "{T3509|T5100}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Ges. Porph. Spontanu",
+		"sortiernummer" : 7500
+	},
+	{
+		"id" : "P4799",
+		"name" : "Ges. Porph. Sammelur",
+		"tests" : "{T0701|T3242}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Ges. Porph. Sammelur",
+		"sortiernummer" : 7525
+	},
+	{
+		"id" : "P4790",
+		"name" : "Gliadin  Fusionsprot",
+		"tests" : "{T5127|T5128}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Gliadin  Fusionsprot",
+		"sortiernummer" : 7550
+	},
+	{
+		"id" : "P4816",
+		"name" : "Gluc. Tol. Test(NaF)",
+		"tests" : "{T5916|T5917}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Gluc. Tol. Test(NaF)",
+		"sortiernummer" : 7600
+	},
+	{
+		"id" : "P716",
+		"name" : "Gluc.Tol.(Gestation)",
+		"tests" : "{T5915|T5908|T5907}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Gluc.Tol.(Gestation)",
+		"sortiernummer" : 7800
+	},
+	{
+		"id" : "P4767",
+		"name" : "Hämochromatose",
+		"tests" : "{T4876|T4875}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Hämochromatose",
+		"sortiernummer" : 8200
+	},
+	{
+		"id" : "P4774",
+		"name" : "HLA-A",
+		"tests" : "{T3568|T4928}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "HLA-A",
+		"sortiernummer" : 11640
+	},
+	{
+		"id" : "P4775",
+		"name" : "HLA-B",
+		"tests" : "{T4929|T3569}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "HLA-B",
+		"sortiernummer" : 11660
+	},
+	{
+		"id" : "P4776",
+		"name" : "HLA-B27",
+		"tests" : "{T3562}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "HLA-B27",
+		"sortiernummer" : 11680
+	},
+	{
+		"id" : "P4777",
+		"name" : "HLA-DRB1",
+		"tests" : "{T3563|T4930}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "HLA-DRB1",
+		"sortiernummer" : 11700
+	},
+	{
+		"id" : "P300",
+		"name" : "IgG-Subklassen",
+		"tests" : "{T0706|T0704|T0705|T0707}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "IgG-Subklassen",
+		"sortiernummer" : 11800
+	},
+	{
+		"id" : "P4763",
+		"name" : "Imipramin",
+		"tests" : "{T2060|T2068|T4867}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Imipramin",
+		"sortiernummer" : 11900
+	},
+	{
+		"id" : "P4840",
+		"name" : "Jod im Sammelurin",
+		"tests" : "{T6179|T3242|T3245}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Jod im Sammelurin",
+		"sortiernummer" : 12900
+	},
+	{
+		"id" : "P4876",
+		"name" : "Komplem. Screen bas.",
+		"tests" : "{T0651|T0272|T7060|T0650|T7065|T0271}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Komplem. Screen bas.",
+		"sortiernummer" : 13100
+	},
+	{
+		"id" : "P379",
+		"name" : "HN-Clearance",
+		"tests" : "{T0042|T3241|T3245|T3240|T3510|T3242|T3953}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "HN-Clearance",
+		"sortiernummer" : 13200
+	},
+	{
+		"id" : "P4814",
+		"name" : "Leber-Profil",
+		"tests" : "{T0080|T0083|T0081|T0084|T0085|T0082|T0079}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Leber-Profil",
+		"sortiernummer" : 13260
+	},
+	{
+		"id" : "P5106",
+		"name" : "MAT-Cellsaver",
+		"tests" : "{T0072|T9450}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "MAT-Cellsaver",
+		"sortiernummer" : 13315
+	},
+	{
+		"id" : "P302",
+		"name" : "Gr.Blutbild",
+		"tests" : "{T0075|T0074|T0073|T3183|T3182|T3181|T3180|T3179|T0072|T0071|T0076|T0070|T0155|T0154|T0153|T0152|T0151|T0069}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Gr.Blutbild",
+		"sortiernummer" : 8000
+	},
+	{
+		"id" : "P366",
+		"name" : "HB-Elpho",
+		"tests" : "{T0748|T0749|T0750|T0751|T3934}",
+		"aktiv" : null,
+		"kategorie" : "Elektrophorese",
+		"hinweis" : null,
+		"beschreibung" : "HB-Elpho",
+		"sortiernummer" : 10400
+	},
+	{
+		"id" : "P5110",
+		"name" : "HCV-Blot IgG",
+		"tests" : "{T9511|T9506|T9509|T9505|T9507|T9508|T9510}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "HCV-Blot IgG",
+		"sortiernummer" : 10650
+	},
+	{
+		"id" : "P347",
+		"name" : "Heliobact. Atemtest",
+		"tests" : "{T0340|T2943|T0268|T2931|T2932|T0141|T0047}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Heliobact. Atemtest",
+		"sortiernummer" : 10800
+	},
+	{
+		"id" : "P4883",
+		"name" : "Hep. E Westernblot",
+		"tests" : "{T9247|T9246|T9245|T9244|T9243|T9242|T9241|T9240|T9239|T9238|T9237|T9236|T9235|T9234|T6132|T6131}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Hep. E Westernblot",
+		"sortiernummer" : 11200
+	},
+	{
+		"id" : "P359",
+		"name" : "Hepatitis",
+		"tests" : "{T5902|T5071|T0054|T6082}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Hepatitis",
+		"sortiernummer" : 11000
+	},
+	{
+		"id" : "P5104",
+		"name" : "Hepatitis E (CLIA)",
+		"tests" : "{T9430|T9431}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Hepatitis E (CLIA)",
+		"sortiernummer" : 11100
+	},
+	{
+		"id" : "P388",
+		"name" : "HIV-Blot alt",
+		"tests" : "{T4602|T4606|T4604|T4601|T4605|T4603|T4607|T4608}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "HIV-Blot alt",
+		"sortiernummer" : 11600
+	},
+	{
+		"id" : "P5109",
+		"name" : "HIV-Blot G",
+		"tests" : "{T9496|T9497|T9500|T9499|T9498|T9504|T9503|T9502|T9501|T9312}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "HIV-Blot G",
+		"sortiernummer" : 11620
+	},
+	{
+		"id" : "P349",
+		"name" : "Immunstatus",
+		"tests" : "{T0530|T0532|T0534|T0536|T0538|T0574|T3010|T3011|T3012|T3014|T3013}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie Immunzytometrie",
+		"hinweis" : null,
+		"beschreibung" : "Immunstatus",
+		"sortiernummer" : 12800
+	},
+	{
+		"id" : "P4856",
+		"name" : "Itraconazol",
+		"tests" : "{T6257|T6256|T6255}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Itraconazol",
+		"sortiernummer" : 12850
+	},
+	{
+		"id" : "P307",
+		"name" : "Privat - Rast 1",
+		"tests" : "{T0301}",
+		"aktiv" : null,
+		"kategorie" : "Allergie",
+		"hinweis" : null,
+		"beschreibung" : "Privat - Rast 1",
+		"sortiernummer" : 13400
+	},
+	{
+		"id" : "P4852",
+		"name" : "FSME im Liquor",
+		"tests" : "{T0509|T2308|T0595|T0009|T4648|T0213|T0398|T0397}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "FSME im Liquor",
+		"sortiernummer" : 6900
+	},
+	{
+		"id" : "P380",
+		"name" : "Genta-Monitoring",
+		"tests" : "{T2378|T2896|T2897|T2380|T2379|T2895}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Genta-Monitoring",
+		"sortiernummer" : 7300
+	},
+	{
+		"id" : "P4758",
+		"name" : "Gerinnungstatus",
+		"tests" : "{T0109|T0088|T0090|T0089|T0125|T0931}",
+		"aktiv" : null,
+		"kategorie" : "Gerinnung",
+		"hinweis" : null,
+		"beschreibung" : "Gerinnungstatus",
+		"sortiernummer" : 7400
+	},
+	{
+		"id" : "P5200",
+		"name" : "Haarkontrolle",
+		"tests" : "{T2405|T6245|T5956|T5957|T9545|T9546|T9547|T9548|T9567}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Haarkontrolle",
+		"sortiernummer" : 8900
+	},
+	{
+		"id" : "P5201",
+		"name" : "Haarkontrolle ETG",
+		"tests" : "{T9553|T2405|T9547|T9548|T9546|T9567|T5956|T5957|T9545}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Haarkontrolle ETG",
+		"sortiernummer" : 8950
+	},
+	{
+		"id" : "P4897",
+		"name" : "Hanta-Blot",
+		"tests" : "{T0450|T0451|T9185|T9186|T9187|T9188|T9189|T9190|T9191|T9192|T9193|T9194|T9195|T9196}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Hanta-Blot",
+		"sortiernummer" : 9000
+	},
+	{
+		"id" : "P4877",
+		"name" : "Harnsteine",
+		"tests" : "{T2941|T3702}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Harnsteine",
+		"sortiernummer" : 9050
+	},
+	{
+		"id" : "P346",
+		"name" : "Immunfix-Sammelurin",
+		"tests" : "{T4718|T0403|T3508}",
+		"aktiv" : null,
+		"kategorie" : "Elektrophorese",
+		"hinweis" : null,
+		"beschreibung" : "Immunfix-Sammelurin",
+		"sortiernummer" : 12200
+	},
+	{
+		"id" : "P392",
+		"name" : "Immunfix-Urin",
+		"tests" : "{T4710|T3509|T3927|T1340}",
+		"aktiv" : null,
+		"kategorie" : "Elektrophorese",
+		"hinweis" : null,
+		"beschreibung" : "Immunfix-Urin",
+		"sortiernummer" : 12400
+	},
+	{
+		"id" : "P310",
+		"name" : "Immunfix. Elpho",
+		"tests" : "{T0145|T0146|T4523|T9653|T0149|T0099|T9470|T9469|T2782|T0170|T0174|T0172|T0147|T0009|T6121|T0010}",
+		"aktiv" : null,
+		"kategorie" : "Elektrophorese",
+		"hinweis" : null,
+		"beschreibung" : "Immunfix. Elpho",
+		"sortiernummer" : 12000
+	},
+	{
+		"id" : "P345",
+		"name" : "Immunglobuline",
+		"tests" : "{T0174|T0010|T0009}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Immunglobuline",
+		"sortiernummer" : 12600
+	},
+	{
+		"id" : "P4807",
+		"name" : "Impfantikörper",
+		"tests" : "{T0369|T0203|T9131|T9132|T0224|T0360}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Impfantikörper",
+		"sortiernummer" : 9000
+	},
+	{
+		"id" : "P369",
+		"name" : "Kasse - Rast",
+		"tests" : "{T4062|T4052|T0301|T4061|T4117|T4310|T4029|T4023|T4022|T4074|T4065|T0497|T9587|T4080}",
+		"aktiv" : null,
+		"kategorie" : "Allergie",
+		"hinweis" : null,
+		"beschreibung" : "Kasse - Rast",
+		"sortiernummer" : 13000
+	},
+	{
+		"id" : "P4804",
+		"name" : "Lactase-Gen",
+		"tests" : "{T5275|T5276}",
+		"aktiv" : null,
+		"kategorie" : "Molekulargenetik",
+		"hinweis" : null,
+		"beschreibung" : "Lactase-Gen",
+		"sortiernummer" : 13250
+	},
+	{
+		"id" : "P4847",
+		"name" : "Masern im Liquor",
+		"tests" : "{T0433|T0369|T0397|T0009|T4648|T0213|T0398}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Masern im Liquor",
+		"sortiernummer" : 13310
+	},
+	{
+		"id" : "P4843",
+		"name" : "Metanephr\/Normetanep",
+		"tests" : "{T2875|T3989}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Metanephr\/Normetanep",
+		"sortiernummer" : 13350
+	},
+	{
+		"id" : "P5005",
+		"name" : "MPU-Drogen",
+		"tests" : "{T9264|T9262|T9266|T6084|T3509|T2177|T5957|T5956|T9265|T9267}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "MPU-Drogen",
+		"sortiernummer" : 13340
+	},
+	{
+		"id" : "P4848",
+		"name" : "Mumps im Liquor",
+		"tests" : "{T0397|T0009|T0398|T0213|T4648|T0224|T0226}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Mumps im Liquor",
+		"sortiernummer" : 13320
+	},
+	{
+		"id" : "P4865",
+		"name" : "Mykophenolsäure",
+		"tests" : "{T0911|T7016}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Mykophenolsäure",
+		"sortiernummer" : 13360
+	},
+	{
+		"id" : "P4894",
+		"name" : "Mykoplasmen-Profil",
+		"tests" : "{T9133|T9134|T9142}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Mykoplasmen-Profil",
+		"sortiernummer" : 13370
+	},
+	{
+		"id" : "P4895",
+		"name" : "Protein S",
+		"tests" : "{T0303|T9147}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Protein S",
+		"sortiernummer" : 13650
+	},
+	{
+		"id" : "P395",
+		"name" : "Leber-Blot",
+		"tests" : "{T7035|T4822|T4823|T4824|T4825|T4826|T7034|T4827}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Leber-Blot",
+		"sortiernummer" : 14700
+	},
+	{
+		"id" : "P4889",
+		"name" : "MOG-AK",
+		"tests" : "{T9123|T9122}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "MOG-AK",
+		"sortiernummer" : 16700
+	},
+	{
+		"id" : "P4890",
+		"name" : "Mycosis fungoides",
+		"tests" : "{T3012|T3013|T0530|T0532|T0534|T0536|T0538|T0574|T3010|T3011|T9465|T9466|T3014|T9124|T9125|T9126|T9127}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Mycosis fungoides",
+		"sortiernummer" : 17500
+	},
+	{
+		"id" : "P387",
+		"name" : "Myositis-Blot",
+		"tests" : "{T5970|T9713|T6260|T6261|T6262|T6263|T6265|T9712|T6264|T9711|T6266|T6267|T6268|T9710|T5971|T4599|T5969|T4596|T4595|T4594|T4598}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Myositis-Blot",
+		"sortiernummer" : 18000
+	},
+	{
+		"id" : "P361",
+		"name" : "Neuritis",
+		"tests" : "{T0427|T7087|T7088|T3776|T0362|T0295|T0248}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Neuritis",
+		"sortiernummer" : 19980
+	},
+	{
+		"id" : "P4794",
+		"name" : "Neurotransmit. Diagn",
+		"tests" : "{T5157|T5158}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Neurotransmit. Diagn",
+		"sortiernummer" : 20000
+	},
+	{
+		"id" : "P362",
+		"name" : "Opportunisten (HIV)",
+		"tests" : "{T0066|T0067|T0248|T0290|T0291|T0295|T0362|T0503|T0504|T3776|T9552}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Opportunisten (HIV)",
+		"sortiernummer" : 24000
+	},
+	{
+		"id" : "P4806",
+		"name" : "Osmolalität im Serum",
+		"tests" : "{T5280|T0396|T0045|T0980|T0041|T0042}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Osmolalität im Serum",
+		"sortiernummer" : 24500
+	},
+	{
+		"id" : "P4788",
+		"name" : "Porphobili. Spontanu",
+		"tests" : "{T3509|T5104}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Porphobili. Spontanu",
+		"sortiernummer" : 27500
+	},
+	{
+		"id" : "P5202",
+		"name" : "Präeklampsie-Screen",
+		"tests" : "{T9569|T9568}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Präeklampsie-Screen",
+		"sortiernummer" : 28050
+	},
+	{
+		"id" : "P4860",
+		"name" : "Ringversuche",
+		"tests" : "{T6304|T6306|T6305}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Ringversuche",
+		"sortiernummer" : 34300
+	},
+	{
+		"id" : "P4764",
+		"name" : "Risperidon",
+		"tests" : "{T4854|T4853|T4384}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Risperidon",
+		"sortiernummer" : 34400
+	},
+	{
+		"id" : "P365",
+		"name" : "Kl.Blutbild (Citrat)",
+		"tests" : "{T1949|T1948|T1947|T1946|T1945|T1944|T1943|T1942}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Kl.Blutbild (Citrat)",
+		"sortiernummer" : 14400
+	},
+	{
+		"id" : "P710",
+		"name" : "Kl.Blutbild(Punktat)",
+		"tests" : "{T1926|T1935}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Kl.Blutbild(Punktat)",
+		"sortiernummer" : 14600
+	},
+	{
+		"id" : "P371",
+		"name" : "Leukäm. Typis.",
+		"tests" : "{T4397|T1867|T6198|T6243|T6197|T4486|T4484|T4487|T4489|T4491|T4398|T4403|T4488|T4490|T4396|T4485}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie Immunzytometrie",
+		"hinweis" : null,
+		"beschreibung" : "Leukäm. Typis.",
+		"sortiernummer" : 14800
+	},
+	{
+		"id" : "P385",
+		"name" : "Liquor-Immunzyto.",
+		"tests" : "{T4440|T6103|T5925|T4439|T4525|T4430|T4431|T4524|T4432}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie Immunzytometrie",
+		"hinweis" : null,
+		"beschreibung" : "Liquor-Immunzyto.",
+		"sortiernummer" : 15400
+	},
+	{
+		"id" : "P389",
+		"name" : "Liquor-Status",
+		"tests" : "{T4652|T4651|T0341|T0031|T4653|T1550}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Liquor-Status",
+		"sortiernummer" : 15800
+	},
+	{
+		"id" : "P329",
+		"name" : "Liquor-Zelldiff.",
+		"tests" : "{T4612|T4891|T4890}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Liquor-Zelldiff.",
+		"sortiernummer" : 16000
+	},
+	{
+		"id" : "P4873",
+		"name" : "Nur Lymph Neutro",
+		"tests" : "{T3179|T7043|T3180}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Nur Lymph Neutro",
+		"sortiernummer" : 22010
+	},
+	{
+		"id" : "P4874",
+		"name" : "Nur Neutro",
+		"tests" : "{T3179|T6309}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Nur Neutro",
+		"sortiernummer" : 22020
+	},
+	{
+		"id" : "P367",
+		"name" : "Retikulozyten",
+		"tests" : "{T0159|T0160|T5926}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Retikulozyten",
+		"sortiernummer" : 34000
+	},
+	{
+		"id" : "P5100",
+		"name" : "Oxcarbazepin",
+		"tests" : "{T9388|T9387|T0674}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Oxcarbazepin",
+		"sortiernummer" : 25000
+	},
+	{
+		"id" : "P4885",
+		"name" : "Paraneopl.Blot",
+		"tests" : "{T9051|T9052|T9053|T9054|T9055|T9056|T9057|T9058|T9073|T9050|T9049|T9042|T9041|T9036|T9037|T9038|T9039|T9040|T9048|T9035|T9046|T9045|T9047|T9044|T9043}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Paraneopl.Blot",
+		"sortiernummer" : 24800
+	},
+	{
+		"id" : "P393",
+		"name" : "Parvo-Blot",
+		"tests" : "{T4734|T4735|T4737|T4736|T4738|T4740|T4741|T4742|T4743|T4744|T4745|T4746|T4739}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Parvo-Blot",
+		"sortiernummer" : 25800
+	},
+	{
+		"id" : "P343",
+		"name" : "PET-Test",
+		"tests" : "{T9613|T9614|T0097|T2169|T3780|T0041|T3779|T2599|T2584|T2581|T2597|T2585|T2582|T2598|T3782|T5160|T5161|T3781|T5940|T0042|T0044|T0980|T0045|T7111|T0099|T0084|T0085|T0079|T0082|T0102|T9615}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "PET-Test",
+		"sortiernummer" : 26000
+	},
+	{
+		"id" : "P713",
+		"name" : "PNH-Diagnostik",
+		"tests" : "{T9025|T9021|T9019|T9024|T4895|T9020|T9018|T9022|T9023}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie Immunzytometrie",
+		"hinweis" : null,
+		"beschreibung" : "PNH-Diagnostik",
+		"sortiernummer" : 27000
+	},
+	{
+		"id" : "P370",
+		"name" : "Privat - Rast 1",
+		"tests" : "{T9587|T0497|T4066|T4046|T4063|T4058|T4364|T4062|T4059|T4061|T4022|T4023}",
+		"aktiv" : null,
+		"kategorie" : "Allergie",
+		"hinweis" : null,
+		"beschreibung" : "Privat - Rast 1",
+		"sortiernummer" : 13400
+	},
+	{
+		"id" : "P375",
+		"name" : "Privat - Rast 2",
+		"tests" : "{T4326|T4310}",
+		"aktiv" : null,
+		"kategorie" : "Allergie",
+		"hinweis" : null,
+		"beschreibung" : "Privat - Rast 2",
+		"sortiernummer" : 13500
+	},
+	{
+		"id" : "P376",
+		"name" : "Privat - Rast 2",
+		"tests" : "{T4081|T4080|T4032|T4052|T4035|T4099|T4236|T4231}",
+		"aktiv" : null,
+		"kategorie" : "Allergie",
+		"hinweis" : null,
+		"beschreibung" : "Privat - Rast 2",
+		"sortiernummer" : 13600
+	},
+	{
+		"id" : "P373",
+		"name" : "Punkt. Zell-Diff.",
+		"tests" : "{T4733}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Punkt. Zell-Diff.",
+		"sortiernummer" : 28000
+	},
+	{
+		"id" : "P5102",
+		"name" : "Quantiferon",
+		"tests" : "{T9425|T9424|T9426|T9422|T9421|T9423|T9427|T9428}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Quantiferon",
+		"sortiernummer" : 28100
+	},
+	{
+		"id" : "P4757",
+		"name" : "Quick\/INR",
+		"tests" : "{T0088|T0089}",
+		"aktiv" : null,
+		"kategorie" : "Gerinnung",
+		"hinweis" : null,
+		"beschreibung" : "Quick\/INR",
+		"sortiernummer" : 29000
+	},
+	{
+		"id" : "P334",
+		"name" : "Reiberschema IgG",
+		"tests" : "{T4648|T0009|T0041|T0397|T0398|T0213}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Reiberschema IgG",
+		"sortiernummer" : 30000
+	},
+	{
+		"id" : "P335",
+		"name" : "Reiberschema IgG\/A\/M",
+		"tests" : "{T4648|T0041|T0397|T0398|T0009|T0213|T0589|T0591|T0174|T0010}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Reiberschema IgG\/A\/M",
+		"sortiernummer" : 32000
+	},
+	{
+		"id" : "P4811",
+		"name" : "Rezirkulationsmess.",
+		"tests" : "{T5285|T5294|T5295|T5296}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Rezirkulationsmess.",
+		"sortiernummer" : 34200
+	},
+	{
+		"id" : "P342",
+		"name" : "Katecholamine",
+		"tests" : "{T4901|T4900|T4654|T3242|T0407|T0133|T0132|T0131}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Katecholamine",
+		"sortiernummer" : 13800
+	},
+	{
+		"id" : "P4842",
+		"name" : "Leptospiren IgM\/IgG",
+		"tests" : "{T6192|T1918}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Leptospiren IgM\/IgG",
+		"sortiernummer" : 14500
+	},
+	{
+		"id" : "P4754",
+		"name" : "LH-FSH-Test",
+		"tests" : "{T3937|T3938|T3939|T3940|T3941|T3942|T3943|T3944|T3991|T3992|T3993|T3949|T3950|T3951|T3952|T3995|T3996|T3994}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "LH-FSH-Test",
+		"sortiernummer" : 15000
+	},
+	{
+		"id" : "P344",
+		"name" : "Lipid-Status groß",
+		"tests" : "{T0185|T0184|T0183|T0104|T9411|T9410|T9031|T9032|T0034|T0103|T0037|T0035}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Lipid-Status groß",
+		"sortiernummer" : 15200
+	},
+	{
+		"id" : "P5101",
+		"name" : "Lipid-Status klein",
+		"tests" : "{T0185|T0104|T0103|T0035|T0183|T9411}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Lipid-Status klein",
+		"sortiernummer" : 15300
+	},
+	{
+		"id" : "P4772",
+		"name" : "Lupus-A",
+		"tests" : "{T7012|T0306|T4910}",
+		"aktiv" : null,
+		"kategorie" : "Gerinnung",
+		"hinweis" : null,
+		"beschreibung" : "Lupus-A",
+		"sortiernummer" : 16600
+	},
+	{
+		"id" : "P4801",
+		"name" : "Mycoph.-Monitoring",
+		"tests" : "{T5272|T5270|T5271}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Mycoph.-Monitoring",
+		"sortiernummer" : 17010
+	},
+	{
+		"id" : "P714",
+		"name" : "Nadelstich (Patient)",
+		"tests" : "{T5071|T5902|T0054|T0063|T4798}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Nadelstich (Patient)",
+		"sortiernummer" : 19000
+	},
+	{
+		"id" : "P715",
+		"name" : "Nadelstich (Personal",
+		"tests" : "{T0063|T4844|T5071|T0203|T0054}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Nadelstich (Personal",
+		"sortiernummer" : 19200
+	},
+	{
+		"id" : "P377",
+		"name" : "Neurotrope Viren",
+		"tests" : "{T0248|T2308|T0295|T0362|T3776|T0509|T0595}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Neurotrope Viren",
+		"sortiernummer" : 22000
+	},
+	{
+		"id" : "P390",
+		"name" : "Oligoklonale Banden",
+		"tests" : "{T2928|T0398|T4648|T0213|T0009|T0041|T0397}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Oligoklonale Banden",
+		"sortiernummer" : 23000
+	},
+	{
+		"id" : "P4839",
+		"name" : "Phospholipide",
+		"tests" : "{T6175|T6176|T6177|T6178}",
+		"aktiv" : null,
+		"kategorie" : "Immunologie",
+		"hinweis" : null,
+		"beschreibung" : "Phospholipide",
+		"sortiernummer" : 25810
+	},
+	{
+		"id" : "P4827",
+		"name" : "Schilddrüsen Auto-AK",
+		"tests" : "{T0165|T0166|T0167}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Schilddrüsen Auto-AK",
+		"sortiernummer" : 36010
+	},
+	{
+		"id" : "P4756",
+		"name" : "Stammzell-Apherese",
+		"tests" : "{T6119|T4021|T4017|T4018|T4020|T4019}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Stammzell-Apherese",
+		"sortiernummer" : 40500
+	},
+	{
+		"id" : "P4884",
+		"name" : "Neuronale AK",
+		"tests" : "{T9069|T9070|T9068|T9067|T9033|T9034|T9066|T9065|T9035|T9036|T9037|T9038|T9039|T9064|T9063|T9062|T9061|T9060|T9059|T9058|T9057|T9056|T9055|T9054|T9053|T9052|T9040|T9041|T9042|T9043|T9051|T9050|T9049|T9048|T9047|T9046|T9045|T9044|T9075|T9074}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Neuronale AK",
+		"sortiernummer" : 40700
+	},
+	{
+		"id" : "P4782",
+		"name" : "Stoffwechs.Basisunt.",
+		"tests" : "{T4009|T3998|T5054|T3966|T3967|T4394}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Stoffwechs.Basisunt.",
+		"sortiernummer" : 42010
+	},
+	{
+		"id" : "P4755",
+		"name" : "Thrombopathiediagn.",
+		"tests" : "{T0518|T0517|T0698|T0699|T4985|T4802|T4924}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Thrombopathiediagn.",
+		"sortiernummer" : 42080
+	},
+	{
+		"id" : "P4861",
+		"name" : "Thromb.ph.funkt.",
+		"tests" : "{T6178|T0303|T0090|T0302|T0305|T7012|T0306|T4907|T4906|T0088|T0089|T6177|T9147|T0304|T4910|T6176|T0931|T6175|T0109}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Thromb.ph.funkt.",
+		"sortiernummer" : 42084
+	},
+	{
+		"id" : "P4862",
+		"name" : "Thromb.ph.moleku.",
+		"tests" : "{T3546|T3545}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Thromb.ph.moleku.",
+		"sortiernummer" : 42085
+	},
+	{
+		"id" : "P4815",
+		"name" : "Thyreoglobulin",
+		"tests" : "{T9004|T9005}",
+		"aktiv" : null,
+		"kategorie" : "Sonstige",
+		"hinweis" : null,
+		"beschreibung" : "Thyreoglobulin",
+		"sortiernummer" : 42087
+	},
+	{
+		"id" : "P4999",
+		"name" : "Helicobacter pylori",
+		"tests" : "{T9275|T9274|T9273|T9268|T9269|T9270|T9271|T9286|T9285|T9272|T9276|T9277|T9278|T9279|T9280|T9281|T9282|T9283|T9284|T5306|T5305|T9287}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Helicobacter pylori",
+		"sortiernummer" : 100000
+	},
+	{
+		"id" : "P4853",
+		"name" : "HIV im Liquor",
+		"tests" : "{T0397|T0398|T0213|T4648|T0009|T0063}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "HIV im Liquor",
+		"sortiernummer" : 110500
+	},
+	{
+		"id" : "P4587",
+		"name" : "Steinprogramm",
+		"tests" : "{T3242|T3245|T0999|T1354|T1000|T3238|T1338|T1526|T0983|T0982|T1365|T9154|T2614}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Steinprogramm",
+		"sortiernummer" : 41000
+	},
+	{
+		"id" : "P304",
+		"name" : "Stix u. Sediment",
+		"tests" : "{T0029|T0108|T3820|T3821|T3229|T3230|T0022|T0024|T0025|T0027|T0026|T0028}",
+		"aktiv" : null,
+		"kategorie" : "Urinstatus",
+		"hinweis" : null,
+		"beschreibung" : "Stix u. Sediment",
+		"sortiernummer" : 42000
+	},
+	{
+		"id" : "P383",
+		"name" : "Tobra-Monitoring",
+		"tests" : "{T2904|T2384|T2903|T2385|T2902|T2386}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Tobra-Monitoring",
+		"sortiernummer" : 42100
+	},
+	{
+		"id" : "P360",
+		"name" : "ToRCH",
+		"tests" : "{T0503|T0360|T0295|T0248|T0067|T0066|T0504|T0604}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "ToRCH",
+		"sortiernummer" : 42110
+	},
+	{
+		"id" : "P4785",
+		"name" : "Toxiscr. imm Urin",
+		"tests" : "{T5096|T5089|T5091|T5092|T5093|T5095|T5167|T9534|T6311}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Toxiscr. imm Urin",
+		"sortiernummer" : 42020
+	},
+	{
+		"id" : "P123",
+		"name" : "Toxocara",
+		"tests" : "{T9703|T9707|T9706|T9705|T9704}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Toxocara",
+		"sortiernummer" : 42350
+	},
+	{
+		"id" : "P4818",
+		"name" : "Toxplasm. Westernbl",
+		"tests" : "{T5928|T5927}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Toxplasm. Westernbl",
+		"sortiernummer" : 42400
+	},
+	{
+		"id" : "P4859",
+		"name" : "TPHA-L",
+		"tests" : "{T0397|T0009|T0213|T0398|T0190|T4648|T2305}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "TPHA-L",
+		"sortiernummer" : 42120
+	},
+	{
+		"id" : "P5111",
+		"name" : "Trep.-Blot",
+		"tests" : "{T9513|T9515|T9561|T9525|T9524|T9523|T9522|T9514|T9520|T9512|T9521|T9516|T9519|T9518|T9517}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Trep.-Blot",
+		"sortiernummer" : 42175
+	},
+	{
+		"id" : "P4854",
+		"name" : "Treponemen im Liquor",
+		"tests" : "{T6248|T2305|T4648|T0213|T0398|T0009|T0397}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Treponemen im Liquor",
+		"sortiernummer" : 42500
+	},
+	{
+		"id" : "P4828",
+		"name" : "TRH-Test (TSH)",
+		"tests" : "{T2672|T1552|T1553}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "TRH-Test (TSH)",
+		"sortiernummer" : 43510
+	},
+	{
+		"id" : "P4810",
+		"name" : "Tubul. P-Rückresorb.",
+		"tests" : "{T4611|T3505|T0044|T3509|T0040|T4610}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Tubul. P-Rückresorb.",
+		"sortiernummer" : 43500
+	},
+	{
+		"id" : "P303",
+		"name" : "Urin-Stix",
+		"tests" : "{T0029|T3230|T3229|T0028|T0027|T0026|T0025|T0108|T0024}",
+		"aktiv" : null,
+		"kategorie" : "Urinstatus",
+		"hinweis" : null,
+		"beschreibung" : "Urin-Stix",
+		"sortiernummer" : 44000
+	},
+	{
+		"id" : "P381",
+		"name" : "Vanco-Monitoring",
+		"tests" : "{T2908|T2381|T2907|T2382|T2383|T2909}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Vanco-Monitoring",
+		"sortiernummer" : 51000
+	},
+	{
+		"id" : "P4765",
+		"name" : "Venlafaxin",
+		"tests" : "{T4780|T4856|T4857}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Venlafaxin",
+		"sortiernummer" : 51200
+	},
+	{
+		"id" : "P5004",
+		"name" : "Vers. LipidElpho",
+		"tests" : "{T9336}",
+		"aktiv" : null,
+		"kategorie" : "Versand",
+		"hinweis" : null,
+		"beschreibung" : "Vers. LipidElpho",
+		"sortiernummer" : 200100
+	},
+	{
+		"id" : "P4898",
+		"name" : "Yersinia Westernblot",
+		"tests" : "{T1800|T1801|T9209|T9210|T9211|T9212|T9213|T9214|T9215|T9216|T9217|T9218|T9219|T9220}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Yersinia Westernblot",
+		"sortiernummer" : 60000
+	},
+	{
+		"id" : "P363",
+		"name" : "ZNS bei HIV",
+		"tests" : "{T0248|T0063|T0066|T9552|T0067|T0295|T0290|T0291|T0503|T0504|T3776|T0362}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "ZNS bei HIV",
+		"sortiernummer" : 80400
+	},
+	{
+		"id" : "P364",
+		"name" : "ZNS bei Zeckenbiss",
+		"tests" : "{T7087|T7088|T0509|T0595|T0427|T2308}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "ZNS bei Zeckenbiss",
+		"sortiernummer" : 80600
+	},
+	{
+		"id" : "P341",
+		"name" : "ZNS-Infektion",
+		"tests" : "{T0224|T0509|T0362|T0369|T0226|T0433|T7088|T3776|T7087|T0595|T0295|T2308|T0427|T0248}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "ZNS-Infektion",
+		"sortiernummer" : 80000
+	},
+	{
+		"id" : "P4878",
+		"name" : "ANA-Blot Nukleoso.",
+		"tests" : "{T7084|T4755|T7083|T7082|T7081|T7080|T7079|T4752|T7078|T7077|T4754|T7076|T7075|T7074|T7073|T4748|T4747|T4751|T4750|T4749|T4756|T4758|T4757|T4761}",
+		"aktiv" : null,
+		"kategorie" : "Immunologie",
+		"hinweis" : null,
+		"beschreibung" : "ANA-Blot Nukleoso.",
+		"sortiernummer" : 81000
+	},
+	{
+		"id" : "P4851",
+		"name" : "Röteln im Liquor",
+		"tests" : "{T0397|T0009|T0398|T4648|T0213|T0360|T0604}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Röteln im Liquor",
+		"sortiernummer" : 34450
+	},
+	{
+		"id" : "P333",
+		"name" : "Schilddrüse gesamt",
+		"tests" : "{T0097|T7054|T0123}",
+		"aktiv" : null,
+		"kategorie" : "Klinische Chemie",
+		"hinweis" : null,
+		"beschreibung" : "Schilddrüse gesamt",
+		"sortiernummer" : 36000
+	},
+	{
+		"id" : "P328",
+		"name" : "Serum-Elpho",
+		"tests" : "{T6121|T0099|T0147|T0149|T2782|T0146|T0145}",
+		"aktiv" : null,
+		"kategorie" : "Elektrophorese",
+		"hinweis" : null,
+		"beschreibung" : "Serum-Elpho",
+		"sortiernummer" : 40000
+	},
+	{
+		"id" : "P5006",
+		"name" : "Borr.-Blot Mikrogen",
+		"tests" : "{T9484|T9483|T9482|T9481|T9480|T9479|T9478|T9477|T9352|T5081|T9351|T9354|T9485|T5085|T5075|T9347|T5084|T9344|T9486|T9487|T9345|T9488|T5077|T9491|T9346|T9492|T0410|T9489|T9490|T9493|T9494|T9349|T9350}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Borr.-Blot Mikrogen",
+		"sortiernummer" : 201000
+	},
+	{
+		"id" : "P351",
+		"name" : "Drogenscr. imm Serum",
+		"tests" : "{T2483|T5290|T0319|T9311|T2329|T0193}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Drogenscr. imm Serum",
+		"sortiernummer" : 42200
+	},
+	{
+		"id" : "P4808",
+		"name" : "Drogenscr. imm Urin",
+		"tests" : "{T5089|T5091|T5092|T5093|T9534|T5095|T3509}",
+		"aktiv" : null,
+		"kategorie" : "Toxikologie",
+		"hinweis" : null,
+		"beschreibung" : "Drogenscr. imm Urin",
+		"sortiernummer" : 42300
+	},
+	{
+		"id" : "P5000",
+		"name" : "Echinokok.West.Blot",
+		"tests" : "{T9610|T9611|T9262|T9263|T9264|T9265|T9266|T9267|T0622|T9606|T9607|T9608|T9609|T5096}",
+		"aktiv" : null,
+		"kategorie" : "Infektserologie",
+		"hinweis" : null,
+		"beschreibung" : "Echinokok.West.Blot",
+		"sortiernummer" : 200000
+	},
+	{
+		"id" : "P5010",
+		"name" : "Lupus ACL",
+		"tests" : "{T9308|T9309|T9310}",
+		"aktiv" : null,
+		"kategorie" : "Gerinnung",
+		"hinweis" : null,
+		"beschreibung" : "Lupus ACL",
+		"sortiernummer" : 200010
+	},
+	{
+		"id" : "P4880",
+		"name" : "Lupus-A Test 2",
+		"tests" : "{T9012|T7047|T7046|T7048}",
+		"aktiv" : null,
+		"kategorie" : "Gerinnung",
+		"hinweis" : null,
+		"beschreibung" : "Lupus-A Test 2",
+		"sortiernummer" : 110600
+	},
+	{
+		"id" : "P711",
+		"name" : "Blutausstr.für Stati",
+		"tests" : "{T3815|T4766}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Blutausstr.für Stati",
+		"sortiernummer" : 2200
+	},
+	{
+		"id" : "P301",
+		"name" : "Kl.Blutbild",
+		"tests" : "{T0070|T0071|T0072|T0073|T0074|T0075|T0076|T0069}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie",
+		"hinweis" : null,
+		"beschreibung" : "Kl.Blutbild",
+		"sortiernummer" : 14200
+	},
+	{
+		"id" : "P4784",
+		"name" : "Leukäm. Typis.  (KM)",
+		"tests" : "{T4417|T4414|T4416|T0074|T0073|T0072|T0071|T0070|T0069|T2006|T4415|T9538|T9537|T4412|T4413|T0076|T0075}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie Immunzytometrie",
+		"hinweis" : null,
+		"beschreibung" : "Leukäm. Typis.  (KM)",
+		"sortiernummer" : 13300
+	},
+	{
+		"id" : "P5203",
+		"name" : "Leukäm. Typis. (PT)",
+		"tests" : "{T9584|T9576|T9575|T9574|T9573|T9585|T9586|T9570|T9571|T9572|T9583|T9582|T9581|T9580|T9579|T9578|T9577}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie Immunzytometrie",
+		"hinweis" : null,
+		"beschreibung" : "Leukäm. Typis. (PT)",
+		"sortiernummer" : 13500
+	},
+	{
+		"id" : "P712",
+		"name" : "BAL",
+		"tests" : "{T4817|T9439|T4816|T4815|T4814|T4450|T4453|T4449|T4812|T4452|T4448|T4811|T4451|T4810|T4818}",
+		"aktiv" : null,
+		"kategorie" : "Hämatologie Immunzytometrie",
+		"hinweis" : null,
+		"beschreibung" : "BAL",
+		"sortiernummer" : 600
+	},
+	{
+		"id" : "P4766",
+		"name" : "Blutungsleiden",
+		"tests" : "{T5013|T9331|T0069|T0070|T0071|T0072|T0073|T0074|T0075|T0517|T4872|T5901|T4924|T4985|T0931|T0793|T0062|T0125|T0518|T0516|T0089|T0088|T0076|T0090}",
+		"aktiv" : null,
+		"kategorie" : "Gerinnung",
+		"hinweis" : null,
+		"beschreibung" : "Blutungsleiden",
+		"sortiernummer" : 5000
+	},
+	{
+		"id" : "P4863",
+		"name" : "GerAmb Thrombophil.",
+		"tests" : "{T6178|T6177|T3545|T0062|T7012|T0070|T0071|T0072|T0516|T0306|T0069|T0302|T0200|T0931|T0109|T0090|T0089|T0088|T0076|T0075|T0074|T0073|T4907|T0305|T0304|T9029|T0303|T6176|T9147|T4910|T5013|T5901|T6175|T3546|T4906}",
+		"aktiv" : null,
+		"kategorie" : "Gerinnung",
+		"hinweis" : null,
+		"beschreibung" : "GerAmb Thrombophil.",
+		"sortiernummer" : 7350
+	},
+	{
+		"id" : "P5002",
+		"name" : "nicht-pnpl.Autoimenz",
+		"tests" : "{T9034|T9033|T9075|T9074|T9070|T9069|T9068|T9067|T9066|T9065|T9064|T9063|T9062|T9061|T9060|T9059|T9058|T9057|T9056|T9055|T9054|T9053|T9052|T9051|T9050|T9049|T9048|T9047|T9046|T9045|T9044|T9043|T9042|T9041|T9040|T9039|T9038|T9386|T9037|T9036|T9035}",
+		"aktiv" : null,
+		"kategorie" : "Immunologie",
+		"hinweis" : null,
+		"beschreibung" : "nicht-pnpl.Autoimenz",
+		"sortiernummer" : 22005
+	}
+]}

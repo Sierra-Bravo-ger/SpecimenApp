@@ -1,0 +1,177 @@
+{
+"farben": [
+	{
+		"id" : "1",
+		"bezeichnung" : "Gelb",
+		"hex" : "#FFEB3B",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "2",
+		"bezeichnung" : "Grün",
+		"hex" : "#4CAF50",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "3",
+		"bezeichnung" : "Rot",
+		"hex" : "#F44336",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "4",
+		"bezeichnung" : "Blau",
+		"hex" : "#2196F3",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "5",
+		"bezeichnung" : "Orange",
+		"hex" : "#FF9800",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "6",
+		"bezeichnung" : "Lime",
+		"hex" : "#00FF00",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "7",
+		"bezeichnung" : "Oliv",
+		"hex" : "#808000",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "8",
+		"bezeichnung" : "Braun",
+		"hex" : "#795548",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "9",
+		"bezeichnung" : "Navy",
+		"hex" : "#000080",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "10",
+		"bezeichnung" : "Lila",
+		"hex" : "#800080",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "11",
+		"bezeichnung" : "Teal",
+		"hex" : "#008080",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "12",
+		"bezeichnung" : "Lila",
+		"hex" : "#9C27B0",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "13",
+		"bezeichnung" : "Silber",
+		"hex" : "#C0C0C0",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "14",
+		"bezeichnung" : "Fuchsia",
+		"hex" : "#FF00FF",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "15",
+		"bezeichnung" : "Aqua",
+		"hex" : "#00FFFF",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "16",
+		"bezeichnung" : "Hellgrau",
+		"hex" : "#C0C0C0",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "17",
+		"bezeichnung" : "Dunkelgrau",
+		"hex" : "#808080",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "18",
+		"bezeichnung" : "Weiß",
+		"hex" : "#FFFFFF",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "19",
+		"bezeichnung" : "MoneyGreen",
+		"hex" : "#C0DCC0",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "20",
+		"bezeichnung" : "Himmelblau",
+		"hex" : "#A6CAF0",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "21",
+		"bezeichnung" : "Cream",
+		"hex" : "#FFFBF0",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "22",
+		"bezeichnung" : "MedGray",
+		"hex" : "#A0A0A4",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "123",
+		"bezeichnung" : "Gelb2",
+		"hex" : "#FFCC00",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "124",
+		"bezeichnung" : "Orange",
+		"hex" : "#FF9800",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "125",
+		"bezeichnung" : "Gelb",
+		"hex" : "#FFFF00",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "126",
+		"bezeichnung" : "Rot",
+		"hex" : "#FF0000",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "127",
+		"bezeichnung" : "Grün",
+		"hex" : "#008000",
+		"textcolor" : "white"
+	},
+	{
+		"id" : "128",
+		"bezeichnung" : "Weiß",
+		"hex" : "#FFFFFF",
+		"textcolor" : "black"
+	},
+	{
+		"id" : "0",
+		"bezeichnung" : "Grau",
+		"hex" : "#9E9E9E",
+		"textcolor" : "white"
+	}
+]}
