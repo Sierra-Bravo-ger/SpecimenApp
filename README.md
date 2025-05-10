@@ -33,7 +33,8 @@ Die App folgt einer modularen Architektur mit klarer Trennung von Daten, Geschä
 
 ### Datenbank
 
-- **SQLite**: Eine relationale Datenbank
+- **Hive**: Eine schnelle, leichtgewichtige NoSQL-Datenbank für lokale Datenspeicherung
+- **SQLite**: Als alternative Option implementiert
 
 ### Abhängigkeiten
 
